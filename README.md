@@ -1,11 +1,11 @@
 # Analizador Estadístico de Datos y Prueba de Hipótesis
 
-#Creadores
-* ** Arevalo Coronado Maria Jose
-* ** Hernandez Morales Anahí
-* ** Marquez Martinez Perla Jazmin
-* ** Romás Ruiz Maria Celeste
-* ** Sanodval López Daniela
+# Creadores
+* Arevalo Coronado Maria Jose
+* Hernandez Morales Anahí
+* Marquez Martinez Perla Jazmin
+* Román Ruiz Maria Celeste
+* Sanodval López Daniela
 
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** Python (v3.10 / v3.11)
