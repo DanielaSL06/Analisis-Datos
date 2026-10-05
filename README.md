@@ -5,7 +5,7 @@
 * Hernandez Morales Anahí
 * Marquez Martinez Perla Jazmin
 * Román Ruiz Maria Celeste
-* Sanodval López Daniela
+* Sandoval López Daniela
 
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** Python (v3.10 / v3.11)
@@ -33,6 +33,11 @@ El desarrollo se divide en dos módulos principales:
 2. **Módulo de Prueba de Hipótesis (`hipotesis.py`):**
    * **Distribución Normal (Campana de Gauss):** Graficación paramétrica del criterio de aceptación y rechazo para una prueba bilateral con nivel de significancia $\alpha = 0.05$ ($Z_{\text{crítico}} = \pm 1.96$).
    * **Evaluación del Z Calculado:** Representación visual de la región de rechazo de la hipótesis nula ($H_0$), demarcando gráficamente valores observados extremos ($Z = 17.744$).
+
+## Imágenes
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/ad843141-de34-44f4-8e28-79fcc55dd0a4" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5e92f014-7cf5-4690-bcde-06e214dc968f" />
+
 
 ---
 
