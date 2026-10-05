@@ -1,6 +1,6 @@
 # Analizador Estadístico de Datos y Prueba de Hipótesis
 
-# Creadores
+## Creadores
 * Arevalo Coronado Maria Jose
 * Hernandez Morales Anahí
 * Marquez Martinez Perla Jazmin
